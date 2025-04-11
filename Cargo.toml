@@ -1,0 +1,7 @@
+[package]
+name = "winpy-launcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winres = "0.1.12"
